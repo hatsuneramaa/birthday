@@ -28,7 +28,7 @@ position: absolute;
   top: 20%;  /* Menempatkan teks di bagian atas */
   left: 50%;  /* Memindahkan teks ke tengah secara horizontal */
   transform: translateX(-50%);  /* Menggeser teks agar tepat di tengah */
-  font-size: 2rem;
+  font-size: 1.2rem;
   text-align: center;
   transition: all 0.5s ease; /* Transisi halus saat teks berubah */
     
@@ -76,7 +76,7 @@ button:nth-child(2) {
 }
 video {
   position: absolute;
-  top: 60%;
+  top: 45%;
   left: 50%;
   transform: translate(-50%, -50%); /* Memindahkan video tepat ke tengah */
   max-width: 80%;
