@@ -45,7 +45,7 @@ yesBtn.addEventListener("click", () => {
 
   // Menambahkan CSS untuk memastikan tombol berada di tengah
   newBtn.style.position = "absolute";
-  newBtn.style.left = "50%";
+  newBtn.style.left = "75%";
   newBtn.style.transform = "translateX(-50%)";
   newBtn.style.top = "60%"; // Atur jarak dari atas
   newBtn.style.bottom = "10"; // Atur jarak dari bawah
