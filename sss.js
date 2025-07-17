@@ -6,7 +6,7 @@ const newBtn = document.querySelector(".new-btn");
 const img = document.querySelector(".img");  // Menambahkan pemilihan elemen gambar
 
 yesBtn.addEventListener("click", () => {
-  question[0].innerHTML = "Happy birthday pretty ayaa💕";
+  question[0].innerHTML = "Happy birthday my love♡";
 
   // Cek apakah ini halaman kedua, jika iya, hapus gambar GIF dan tambahkan video
   if (wrapper.contains(img)) {
@@ -45,7 +45,7 @@ yesBtn.addEventListener("click", () => {
 
   // Menambahkan CSS untuk memastikan tombol berada di tengah
   newBtn.style.position = "absolute";
-  newBtn.style.left = "75%";
+  newBtn.style.left = "70%";
   newBtn.style.transform = "translateX(-50%)";
   newBtn.style.top = "60%"; // Atur jarak dari atas
   newBtn.style.bottom = "10"; // Atur jarak dari bawah
