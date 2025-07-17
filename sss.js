@@ -52,7 +52,7 @@ yesBtn.addEventListener("click", () => {
  
   
   newBtn.addEventListener("click", () => {
-    window.location.href = "https://heyzine.com/flip-book/6d03d1b1a6.html";
+    window.location.href = "https://heyzine.com/flip-book/1a73332d8b.html";
   });
 });
 
