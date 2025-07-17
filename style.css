@@ -25,7 +25,7 @@ h2 {
     color: #ffffff;
     margin: 15px 0;
 position: absolute;
-  top: 70%;  /* Menempatkan teks di bagian atas */
+  top: 10%;  /* Menempatkan teks di bagian atas */
   left: 50%;  /* Memindahkan teks ke tengah secara horizontal */
   transform: translateX(-50%);  /* Menggeser teks agar tepat di tengah */
   font-size: 1rem;
